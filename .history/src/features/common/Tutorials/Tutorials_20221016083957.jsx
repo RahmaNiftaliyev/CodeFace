@@ -79,7 +79,7 @@ const Tutorials = ({ navLight }) => {
     if (window.scrollY <= 123) {
       setToggle(false);
     } else {
-      if (Boolean(toggle2)) {
+      if (toggle2) {
         setToggle(true);
       }
     }
