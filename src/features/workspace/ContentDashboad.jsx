@@ -83,10 +83,10 @@ const ContentDashboard = ({}) => {
               {cartItems.map((item) => (
                 <div className={`${styles.support_us_cart_item}`}>
                   <h3 className={styles.title}>{item.title}</h3>
-                  <div class={styles.bar}>
-                    <div class={styles.filledbar}></div>
+                  <div className={styles.bar}>
+                    <div className={styles.filledbar}></div>
                   </div>
-                  <div class={styles.icon_box}>
+                  <div className={styles.icon_box}>
                    {item.icons}
                   </div>
                 </div>
