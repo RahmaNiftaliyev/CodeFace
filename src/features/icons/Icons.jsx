@@ -1,9 +1,9 @@
-import { createIcon } from "@chakra-ui/icons";
-import React from "react";
+import { createIcon } from '@chakra-ui/icons';
+import React from 'react';
 
 export const AdobexdLogo = createIcon({
-  displayName: "AdobexdLogo",
-  viewBox: "0 0 24 24",
+  displayName: 'AdobexdLogo',
+  viewBox: '0 0 24 24',
   path: (
     <g clipPath="url(#clip0)">
       <path
@@ -19,8 +19,8 @@ export const AdobexdLogo = createIcon({
 });
 
 export const AtlassianLogo = createIcon({
-  displayName: "AtlassianLogo",
-  viewBox: "0 0 24 24",
+  displayName: 'AtlassianLogo',
+  viewBox: '0 0 24 24',
   path: (
     <g>
       <path
@@ -36,8 +36,8 @@ export const AtlassianLogo = createIcon({
 });
 
 export const CartIcon = createIcon({
-  displayName: "CartIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'CartIcon',
+  viewBox: '0 0 24 24',
   path: (
     <path
       fill="currentColor"
@@ -47,8 +47,8 @@ export const CartIcon = createIcon({
 });
 
 export const ClockIcon = createIcon({
-  displayName: "ClockIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'ClockIcon',
+  viewBox: '0 0 24 24',
   path: (
     <g>
       <g>
@@ -68,28 +68,12 @@ export const ClockIcon = createIcon({
   ),
 });
 export const CreativeTimLogo = createIcon({
-  displayName: "CreativeTimLogo",
-  viewBox: "0 0 100 100",
+  displayName: 'CreativeTimLogo',
+  viewBox: '0 0 100 100',
   path: (
-    <g
-      xmlns="http://www.w3.org/2000/svg"
-      width="50px"
-      height="50px"
-      version="1.1"
-    >
-      <g
-        id="logo-creative-tim-black"
-        stroke="none"
-        strokeWidth="1"
-        fill="none"
-        fillRule="evenodd"
-      >
-        <g
-          id="icon"
-          transform="translate(15.000000, 19.000000)"
-          fill="currentColor"
-          fillRule="nonzero"
-        >
+    <g xmlns="http://www.w3.org/2000/svg" width="50px" height="50px" version="1.1">
+      <g id="logo-creative-tim-black" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <g id="icon" transform="translate(15.000000, 19.000000)" fill="currentColor" fillRule="nonzero">
           <path
             d="M66.4346744,1.49018376e-13 L3.56968951,1.49018376e-13 C1.59820443,1.49018376e-13 -2.98036753e-13,1.59820443 -2.98036753e-13,3.56968951 L-2.98036753e-13,33.5035241 C-2.98036753e-13,35.4750091 1.59820443,37.0732136 3.56968951,37.0732136 L16.4677598,37.0732136 L16.4677598,66.4346744 C16.4666001,67.3810129 16.8417189,68.288989 17.5104719,68.9585615 C18.1792249,69.628134 19.0867408,70.0043639 20.03308,70.0043639 L49.9669146,70.0043639 C51.9383997,70.0043639 53.5366041,68.4061595 53.5366041,66.4346744 L53.5366041,37.0863214 L66.4346744,37.0863214 C67.3810136,37.0863221 68.2885296,36.7100915 68.9572826,36.0405189 C69.6260355,35.3709464 70.0011544,34.4629704 70,33.5166319 L70,3.56968951 C70.0011544,2.62335099 69.6260355,1.71537495 68.9572826,1.04580242 C68.2885296,0.37622988 67.3810136,1.49018376e-13 66.4346744,1.49018376e-13 Z M4.13769396,4.14206323 L32.9311503,4.14206323 L32.9311503,32.9355196 L4.13769396,32.9355196 L4.13769396,4.14206323 Z M49.3989102,65.86667 L20.6054538,65.86667 L20.6054538,37.0863214 L49.3989102,37.0863214 L49.3989102,65.86667 Z M65.8623007,32.9355196 L37.0688443,32.9355196 L37.0688443,4.14206323 L65.8623007,4.14206323 L65.8623007,32.9355196 Z"
             id="Shape"
@@ -113,8 +97,8 @@ export const CreativeTimLogo = createIcon({
 });
 
 export const CreditIcon = createIcon({
-  displayName: "CreditIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'CreditIcon',
+  viewBox: '0 0 24 24',
   path: (
     <path
       fill="currentColor"
@@ -124,8 +108,8 @@ export const CreditIcon = createIcon({
 });
 
 export const DashboardLogo = createIcon({
-  displayName: "DashboardLogo",
-  viewBox: "0 0 1000 257",
+  displayName: 'DashboardLogo',
+  viewBox: '0 0 1000 257',
   path: (
     <g width="998" height="257" viewBox="0 0 998 257" fill="none">
       <g clipPath="url(#clip0)">
@@ -160,14 +144,7 @@ export const DashboardLogo = createIcon({
         />
       </g>
       <defs>
-        <linearGradient
-          id="paint0_linear"
-          x1="128.5"
-          y1="0"
-          x2="128.5"
-          y2="257"
-          gradientUnits="userSpaceOnUse"
-        >
+        <linearGradient id="paint0_linear" x1="128.5" y1="0" x2="128.5" y2="257" gradientUnits="userSpaceOnUse">
           <stop stopColor="#7BCBD4" />
           <stop offset="1" stopColor="#29C6B7" />
         </linearGradient>
@@ -180,8 +157,8 @@ export const DashboardLogo = createIcon({
 });
 
 export const DashboardLogoWhite = createIcon({
-  displayName: "DashboardLogo",
-  viewBox: "0 0 163.5 42",
+  displayName: 'DashboardLogo',
+  viewBox: '0 0 163.5 42',
   path: (
     <g fill="none">
       <path
@@ -197,8 +174,8 @@ export const DashboardLogoWhite = createIcon({
 });
 
 export const DocumentIcon = createIcon({
-  displayName: "DocumentIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'DocumentIcon',
+  viewBox: '0 0 24 24',
   path: (
     <g>
       <path
@@ -214,8 +191,8 @@ export const DocumentIcon = createIcon({
 });
 
 export const GlobeIcon = createIcon({
-  displayName: "GlobeIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'GlobeIcon',
+  viewBox: '0 0 24 24',
   path: (
     <g>
       <path
@@ -257,8 +234,8 @@ export const GlobeIcon = createIcon({
 });
 
 export const HelpIcon = createIcon({
-  displayName: "HelpIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'HelpIcon',
+  viewBox: '0 0 24 24',
   path: (
     <path
       fill="currentColor"
@@ -268,8 +245,8 @@ export const HelpIcon = createIcon({
 });
 
 export const HomeIcon = createIcon({
-  displayName: "HomeIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'HomeIcon',
+  viewBox: '0 0 24 24',
   path: (
     <g>
       <path
@@ -285,8 +262,8 @@ export const HomeIcon = createIcon({
 });
 
 export const InvisionLogo = createIcon({
-  displayName: "InvisionLogo",
-  viewBox: "0 0 24 24",
+  displayName: 'InvisionLogo',
+  viewBox: '0 0 24 24',
   path: (
     <g clipPath="url(#clip0)">
       <path
@@ -302,8 +279,8 @@ export const InvisionLogo = createIcon({
 });
 
 export const JiraLogo = createIcon({
-  displayName: "JiraLogo",
-  viewBox: "0 0 24 24",
+  displayName: 'JiraLogo',
+  viewBox: '0 0 24 24',
   path: (
     <g clipPath="url(#clip0)">
       <path
@@ -323,16 +300,10 @@ export const JiraLogo = createIcon({
 });
 
 export const MastercardIcon = createIcon({
-  displayName: "MastercardIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'MastercardIcon',
+  viewBox: '0 0 24 24',
   path: (
-    <svg
-      width="24"
-      height="20"
-      viewBox="0 0 21 15"
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-    >
+    <svg width="24" height="20" viewBox="0 0 21 15" fill="none" xmlns="http://www.w3.org/2000/svg">
       <circle cx="6.63158" cy="7.49999" r="6.63158" fill="#EB001B" />
       <circle cx="14.3686" cy="7.49999" r="6.63158" fill="#F79E1B" />
     </svg>
@@ -340,8 +311,8 @@ export const MastercardIcon = createIcon({
 });
 
 export const PayPalIcon = createIcon({
-  displayName: "PayPalIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'PayPalIcon',
+  viewBox: '0 0 24 24',
   path: (
     <g>
       <path
@@ -357,8 +328,8 @@ export const PayPalIcon = createIcon({
 });
 
 export const PersonIcon = createIcon({
-  displayName: "PersonIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'PersonIcon',
+  viewBox: '0 0 24 24',
   path: (
     <path
       fill="currentColor"
@@ -368,8 +339,8 @@ export const PersonIcon = createIcon({
 });
 
 export const ProfileIcon = createIcon({
-  displayName: "ProfileIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'ProfileIcon',
+  viewBox: '0 0 24 24',
   path: (
     <g>
       <path d="M0 0h24v24H0V0z" fill="transparent" />
@@ -382,8 +353,8 @@ export const ProfileIcon = createIcon({
 });
 
 export const RocketIcon = createIcon({
-  displayName: "RocketIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'RocketIcon',
+  viewBox: '0 0 24 24',
   path: (
     <g>
       <path
@@ -399,8 +370,8 @@ export const RocketIcon = createIcon({
 });
 
 export const SettingsIcon = createIcon({
-  displayName: "SettingsIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'SettingsIcon',
+  viewBox: '0 0 24 24',
   // path can also be an array of elements, if you have multiple paths, lines, shapes, etc.
   path: (
     <g>
@@ -414,8 +385,8 @@ export const SettingsIcon = createIcon({
 });
 
 export const SlackLogo = createIcon({
-  displayName: "SlackLogo",
-  viewBox: "0 0 24 24",
+  displayName: 'SlackLogo',
+  viewBox: '0 0 24 24',
   path: (
     <g clipPath="url(#clip0)" fillRule="evenodd" clipRule="evenodd">
       <path
@@ -439,8 +410,8 @@ export const SlackLogo = createIcon({
 });
 
 export const SpotifyLogo = createIcon({
-  displayName: "SpotifyLogo",
-  viewBox: "0 0 24 24",
+  displayName: 'SpotifyLogo',
+  viewBox: '0 0 24 24',
   path: (
     <g clipPath="url(#clip0)">
       <path
@@ -453,8 +424,8 @@ export const SpotifyLogo = createIcon({
 
 export const SupportIcon = createIcon({
   // Doesn't display the full icon without w and h being specified
-  displayName: "BuildIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'BuildIcon',
+  viewBox: '0 0 24 24',
   path: (
     <path
       fill="currentColor"
@@ -464,8 +435,8 @@ export const SupportIcon = createIcon({
 });
 
 export const StatsIcon = createIcon({
-  displayName: "StatsIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'StatsIcon',
+  viewBox: '0 0 24 24',
   path: (
     <path
       fill="currentColor"
@@ -475,8 +446,8 @@ export const StatsIcon = createIcon({
 });
 
 export const WalletIcon = createIcon({
-  displayName: "WalletIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'WalletIcon',
+  viewBox: '0 0 24 24',
   path: (
     <g>
       <path
@@ -492,16 +463,10 @@ export const WalletIcon = createIcon({
 });
 
 export const VisaIcon = createIcon({
-  displayName: "VisaIcon",
-  viewBox: "0 0 24 24",
+  displayName: 'VisaIcon',
+  viewBox: '0 0 24 24',
   path: (
-    <svg
-      width="26"
-      height="20"
-      viewBox="0 0 30 9"
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-    >
+    <svg width="26" height="20" viewBox="0 0 30 9" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
         fillRule="evenodd"
         clipRule="evenodd"
@@ -513,8 +478,8 @@ export const VisaIcon = createIcon({
 });
 
 export const ArgonLogoDark = createIcon({
-  displayName: "ArgonLogoDark",
-  viewBox: "0 0 74 27",
+  displayName: 'ArgonLogoDark',
+  viewBox: '0 0 74 27',
   path: (
     <svg width="74" height="27" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
@@ -532,8 +497,8 @@ export const ArgonLogoDark = createIcon({
 });
 
 export const ArgonLogoLight = createIcon({
-  displayName: "ArgonLogoLight",
-  viewBox: "0 0 74 27",
+  displayName: 'ArgonLogoLight',
+  viewBox: '0 0 74 27',
   path: (
     <svg width="74" height="27" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
@@ -551,8 +516,8 @@ export const ArgonLogoLight = createIcon({
 });
 
 export const ChakraLogoDark = createIcon({
-  displayName: "ChakraLogoDark",
-  viewBox: "0 0 82 21",
+  displayName: 'ChakraLogoDark',
+  viewBox: '0 0 82 21',
   path: (
     <svg width="82" height="21" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
@@ -568,14 +533,7 @@ export const ChakraLogoDark = createIcon({
         fill="#fff"
       />
       <defs>
-        <linearGradient
-          id="Group__a"
-          x1="10.558"
-          y1="0"
-          x2="10.558"
-          y2="21"
-          gradientUnits="userSpaceOnUse"
-        >
+        <linearGradient id="Group__a" x1="10.558" y1="0" x2="10.558" y2="21" gradientUnits="userSpaceOnUse">
           <stop stopColor="#7BCBD4" />
           <stop offset="1" stopColor="#29C6B7" />
         </linearGradient>
@@ -585,8 +543,8 @@ export const ChakraLogoDark = createIcon({
 });
 
 export const ChakraLogoLight = createIcon({
-  displayName: "ChakraLogoLight",
-  viewBox: "0 0 82 21",
+  displayName: 'ChakraLogoLight',
+  viewBox: '0 0 82 21',
   path: (
     <svg width="82" height="21" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
@@ -602,8 +560,8 @@ export const ChakraLogoLight = createIcon({
 });
 
 export const ChakraLogoBlue = createIcon({
-  displayName: "ChakraLogoLight",
-  viewBox: "0 0 82 21",
+  displayName: 'ChakraLogoLight',
+  viewBox: '0 0 82 21',
   path: (
     <svg width="82" height="21" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
